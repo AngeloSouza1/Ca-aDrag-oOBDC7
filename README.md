@@ -1,6 +1,6 @@
 # Caça ao Dragão! 🐉
 
-<div align="justify">**"Caça ao Dragão"** é uma aplicação interativa e estilizada desenvolvida em Python. Ela simula uma jornada em um mundo fantástico, onde o jogador utiliza seu poder mágico para capturar dragões. Com uma interface visual moderna, o programa determina quais dragões podem ser capturados com base em seus poderes individuais e exibe os resultados de forma dinâmica e atrativa.</div>
+<div align="justify">É uma aplicação interativa e estilizada desenvolvida em Python. Ela simula uma jornada em um mundo fantástico, onde o jogador utiliza seu poder mágico para capturar dragões. Com uma interface visual moderna, o programa determina quais dragões podem ser capturados com base em seus poderes individuais e exibe os resultados de forma dinâmica e atrativa.</div>
 
 ### 💻 Sobre o projeto
 ---
